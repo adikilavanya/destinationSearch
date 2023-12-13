@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.heading {
+  color: black;
+  font-size: 30px;
+}
+.bg {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
